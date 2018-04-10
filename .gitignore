@@ -1,5 +1,5 @@
-*.js.un~
+*.un~
 *.js~
 *.sol~
-node_modules
+/node_modules
 HDWalletProvider.js
