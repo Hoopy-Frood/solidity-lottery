@@ -3,8 +3,7 @@ const Web3 = require ('web3');
 const { interface,bytecode } = require ('./compile');
 
 const provider = new HDWalletProvider (
-    'rare resist parent flame animal wedding cherry tell cross discover head broom',
-    'https://rinkeby.infura.io/8QlOv4cwpiPKMaxusGI9'
+
 );
 
 const web3 = new Web3(provider);
